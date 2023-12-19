@@ -1,0 +1,55 @@
+body {
+    background-color: #151516;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+p, h2, li {
+    padding-left: 0.9em;
+    padding-right: 0.9em;
+}
+
+button {
+    text-align: center;
+    margin: auto;
+}
+
+header {
+    width: 40em;
+    margin: auto;
+    padding: 0.14em;
+    background-color: #101213;
+}
+
+main {
+    width: 40em;
+    margin: auto;
+    padding: 0.14em;
+    background-color: #101213;
+}
+
+footer {
+    width: 40em;
+    margin: auto;
+    padding: 0.14em;
+    background-color: #101213;
+    text-align: center;
+}
+
+a:link {
+    color: #3d2fff;
+    text-decoration: none;
+}
+a:visited {
+    color: #5f5b96;
+    text-decoration: none;
+}
+a:hover {
+    color: #c23535;
+    text-decoration: underline;
+}
